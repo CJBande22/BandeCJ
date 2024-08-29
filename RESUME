@@ -1,0 +1,48 @@
+<html>
+    <head>
+	
+    </head>
+    <body>
+	
+	<table>
+	    <tr>
+		<td colspan="2">  PERSONAL INFORMATION </td>
+		<td rowspan="3"><img src="C:\Users\user\Pictures\Camera Roll\received_949636159458560.jpeg" width="100px" height= "100px"/> </td>
+	    </tr>	
+ 	    <tr>
+		<td> Name:</td>
+		<td> Christine Joy L. Bande </td>
+	    </tr>	
+ 	    <tr>
+		<td> Contact:</td>
+		<td> 09076739290 </td>
+	    </tr>
+	</table>
+	<hr>
+
+
+	<table>
+	    <tr>
+		<td colspan="2"> EDUCATIONAL BACKGROUND </td>
+	    </tr>
+
+	    <tr>
+		<td> College: </td>
+		<td> Bicol University Polangui </td>
+	    </tr>
+
+	    <tr>
+		<td> High School: </td>
+		<td> Salvacion National High School </td>
+	    </tr>
+
+	    <tr>
+		<td> Elementary: </td>
+		<td> Del Rosario Elementary School </td>
+	    </tr>
+	    
+	</table>
+	
+	<hr>
+    </body>
+</html>
