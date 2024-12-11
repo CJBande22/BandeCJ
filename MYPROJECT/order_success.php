@@ -92,7 +92,7 @@ mysqli_close($conn);
         <p>Payment Method: <strong><?php echo htmlspecialchars($payment_method); ?></strong>.</p>
         
         <!-- View Order Button -->
-        <p><a href="view_order.php" class="btn">View Order</a></p>
+        <p><a href="order_tracking.php" class="btn">View Order</a></p>
 
         <!-- Continue Shopping Button -->
         <p><a href="items.php" class="btn">Continue Shopping</a></p>
